@@ -136,6 +136,30 @@ Accept-Language: de,de-DE;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
 | YouTube IOS               | `AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc` |
 | YouTube IOS Music         | `AIzaSyBAETezhkwP0ZWA02RsqT1zu78Fpt0bC_s` |
 
+## More another
+https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass
+https://github.com/Anarios/return-youtube-dislike/tree/main (https://www.youtube.com/watch?v=mdOj6HYE3_0)
+https://github.com/Anarios/return-youtube-dislike/blob/main/CONTRIBUTING.md
+https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb?utm_source=returnyoutubedislike
+https://github.com/modwedar/FlutterTube
+https://github.com/kimyearho/FlutterTube
+https://github.com/Mister-Ritom/youtube
+https://github.com/MinePlayersPE
+https://github.com/yt-dlp/yt-dlp/tree/master
+https://github.com/zerodytrash/YouTube-Internal-Clients/tree/main==============================================================
+https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass
+https://github.com/drunkwinter?tab=repositories
+https://www.youtube.com/watch?v=7t0SqerlBA0
+https://200lab.io/blog/grpc-la-gi/
+https://github.com/Tyrrrz/YoutubeExplode/tree/fed964ff706970dc654910587298c790a56e90c1/YoutubeExplode/Videos
+https://buglog.zerody.one/schrifterguss/3851/die-kurzzeitige-rueckkehr-der-youtube-dislikes-ein-tauchgang-in-die-tiefen-der-youtube-api-und-wieder-zurueck/
+https://github.com/amugofjava/anytime_podcast_player
+----java
+https://github.com/AnhtuTa/NetbeansProjects/tree/master/ChatSocket4
+https://github.com/phanvan2?tab=repositories
+https://www.youtube.com/results?search_query=how+to+make+java+project+executable+jar
+https://blog.logrocket.com/create-responsive-layouts-flexible-expanded-widgets-flutter/
+
 ## Contributors
 - [@MinePlayersPE](https://github.com/MinePlayersPE) - Mapped some version numbers in a [Gist](https://gist.github.com/MinePlayersPE/9875f2051c2dfdeb090543b8c6a9f7e6), which helped a lot
 - [@89z](https://github.com/89z) - Helped to find some missing clients and version numbers 
